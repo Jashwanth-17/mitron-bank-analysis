@@ -4,18 +4,16 @@
 Mitron Bank, a legacy financial institution, is planning to introduce a new line of credit cards to expand its market reach. The strategy director, Mr. Bashnir Rover, requested a pilot analysis of a sample dataset (4,000 customers) to identify key demographics, spending patterns, and income utilization trends.
 
 This dashboard provides data-driven recommendations on which customer segments to target for the new credit card launch.
-
-**Live Dashboard:** [Link to your Web Dashboard if available]  
+ 
 **Tool Used:** Power BI, Power Query, DAX
 
 ---
 
 ### 📷 Dashboard Preview
-*(Upload screenshots of your Dark Mode pages here)*
 
-| **Executive Home Page** | **Income Utilisation Analysis** |
-|:---:|:---:|
-| ![Demography](Screenshot/Demography.png) | ![Income Utilisation Analysis](Screenshot/Income_Utilization_Analysis.png) |
+| **Demography Page** | 
+|:---:|
+| ![Demography](Screenshot/Demography.png) |
 
 ---
 
