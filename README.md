@@ -15,7 +15,7 @@ This dashboard provides data-driven recommendations on which customer segments t
 
 | **Executive Home Page** | **Income Utilisation Analysis** |
 |:---:|:---:|
-| ![Home Page](Screenshots/Home_Page.png) | ![Utilisation](Screenshots/Utilisation.png) |
+| ![Demography](Screenshot/Demography.png) | ![Income Utilisation Analysis](Screenshot/Income_Utilization_Analysis.png) |
 
 ---
 
