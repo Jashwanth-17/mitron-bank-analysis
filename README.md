@@ -71,3 +71,9 @@ Based on the data, I recommend tailoring the credit cards into three tiers:
 
 ---
 *This project is part of the Codebasics Resume Project Challenge #8.*
+
+👤 Author
+Jashwanth Data Analyst | SQL | Python | Power BI
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/jashwanth-varma-m-b87671208?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B81aE%2FakEQrO%2B7bA3F%2B61IA%3D%3D).
+
