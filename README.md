@@ -67,7 +67,7 @@ Based on the data, I recommend tailoring the credit cards into three tiers:
 
 ### 📂 File Structure
 * [`Mitron_Bank_Dashboard.pbix`](dashboard/Mitron_Bank_Dashboard.pbix): The source Power BI file.
-* [`Mitron_Bank_Report.pdf`](dashboard/Mitron_Bank_Report.pdf): A static PDF version of the report.
+* [`Mitron_Bank_Report.pdf`](dashboard/Mitron_BanK_Report.pdf): A static PDF version of the report.
 
 ---
 *This project is part of the Codebasics Resume Project Challenge #8.*
