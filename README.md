@@ -62,9 +62,6 @@ Based on the data, I recommend tailoring the credit cards into three tiers:
 ### 🛠️ Technical Implementation
 * **Data Modelling:** Star Schema connecting `fact_spends` to `dim_customers`.
 * **Advanced DAX:** Created measures for *Income Utilisation %*, *Average Income*, and *Spend Segmentation*.
-* **UI/UX Design:** * Implemented a **Dark Mode / Royal Gradient** theme for an executive "Fintech App" feel.
-    * Custom Navigation Bar with hover effects.
-    * Glassmorphism effects on KPI cards.
 
 ---
 
